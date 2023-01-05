@@ -39,7 +39,7 @@ Is a multi-platform portfolio for developers available for mobile, windows and w
 
 ## 🧑 Author
 
-#### Muhammad Hamza
+#### Emir Demirli
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/mhmzdev)
 
@@ -49,4 +49,4 @@ You can also follow my GitHub Profile to stay updated about my latest projects:
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2020 MUHAMMAD HAMZA
+Copyright (c) 2020 Emir Demirli
