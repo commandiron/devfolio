@@ -120,7 +120,7 @@ class AboutDesktop extends StatelessWidget {
                               ),
                               AboutMeData(
                                 data: "From",
-                                information: "Attock, PK",
+                                information: "Istanbul, Turkey",
                               ),
                             ],
                           ),
