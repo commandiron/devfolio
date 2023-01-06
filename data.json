@@ -1,6 +1,6 @@
 {
     "name": "Emir Demirli",
-    "email": "hamza@mhmz.dev",
+    "email": "emirdemirli@gmail.com",
     "subtitles": [
         "Flutter Developer",
         "Technical Writer",
@@ -10,39 +10,25 @@
     "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
     "socialLinks": [
         {
-            "platform": "facebook",
-            "url": "https://facebook.com/mhmzdev"
-        },
-        {
             "platform": "instagram",
-            "url": "https://instagram.com/mhmzdev"
-        },
-        {
-            "platform": "twitter",
-            "url": "https://twitter.com/mhmzdev"
+            "url": "https://instagram.com/emirdemirli"
         },
         {
             "platform": "linkedin",
-            "url": "https://linkedin.com/in/mhmzdev"
+            "url": "https://linkedin.com/in/emirdemirli"
         },
         {
             "platform": "github",
-            "url": "https://github.com/mhmzdev"
-        },
-        {
-            "platform": "medium",
-            "url": "https://mhamzadev.medium.com/"
+            "url": "https://github.com/commandiron"
         }
     ],
-    "aboutMeHeadline": "I'm Emir Demirli, a Flutter developer, Technical Writer and UI/UX Designer.",
-    "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
+    "aboutMeHeadline": "I'm Emir Demirli, a Flutter - Android developer..",
+    "aboueMeDetails": "I graduated from Kocaeli University Civil Engineering. I worked as an engineer for years, but my real passion was always software development. I have been developing mobile apps for over 2 years now. I have produced many project on my own and publish them on github. Now I want to work in a real team and projects to further my skills.",
     "technologies": [
+        "Android",
+        "Kotlin",
         "Flutter",
-        "Dart",
-        "Python",
-        "Java",
-        "C++",
-        "Flask"
+        "Dart"
     ],
     "services": [
         {
