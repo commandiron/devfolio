@@ -6,8 +6,8 @@
         "Technical Writer",
         "UI/UX Designer"
     ],
-    "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
-    "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
+    "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1QXPjsAn00e0tY8RpacXOWQ8_YkIYF8tf",
+    "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1QXPjsAn00e0tY8RpacXOWQ8_YkIYF8tf",
     "socialLinks": [
         {
             "platform": "instagram",
@@ -34,31 +34,21 @@
         {
             "icon": "assets/services/app.png",
             "name": "Mobile App Development",
-            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+            "description": "App development via \nFlutter & Kotlin\n- Multiplatform framework\n- Jetpack Compose\n- Firebase\n- REST APIs\n- and more...!"
         },
         {
             "icon": "assets/services/ui.png",
-            "name": "UI/UX Designing",
-            "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
-        },
-        {
-            "icon": "assets/services/rapid.png",
-            "name": "Rapid Prototyping",
-            "description": "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"
-        },
-        {
-            "icon": "assets/services/blog.png",
-            "name": "Technical Blog Writing",
-            "description": "Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"
+            "name": "Ktor-backend(beginner)",
+            "description": "Basic Applications..."
         },
         {
             "icon": "assets/services/open.png",
             "name": "Open Source - GitHub",
-            "description": "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"
+            "description": "Open source GitHub Projects"
         }
     ],
     "hireMe": {
-        "whatsapp": "923460159889"
+        "whatsapp": "905355085552"
     },
     "projects": [
         {
@@ -131,11 +121,11 @@
     "contact": [
         {
             "param": "address",
-            "value": "Attock, Pakistan"
+            "value": "Istanbul, Turkiye"
         },
         {
             "param": "phone",
-            "value": "+92 346 0159889"
+            "value": "+90 535 5085552"
         },
         {
             "param": "email",
