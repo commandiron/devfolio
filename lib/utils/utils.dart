@@ -15,8 +15,8 @@ class StaticUtils {
   static const String blackWhitePhoto = 'assets/photos/venom_snake.mgs5tpp.jpg';
 
   // work
-  static const String kocaeliUni = 'assets/work/cui.png';
-  static const String ituUni = 'assets/work/cui.png';
+  static const String kocaeliUni = 'assets/work/kou.png';
+  static const String ituUni = 'assets/work/itu.png';
 
   // services
   static const String uiux = 'assets/services/ui.png';
