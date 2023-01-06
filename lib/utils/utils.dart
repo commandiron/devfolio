@@ -16,7 +16,7 @@ class StaticUtils {
 
   // work
   static const String kocaeliUni = 'assets/work/kou.png';
-  static const String ituUni = 'assets/work/itu.png';
+  static const String ituUni = 'assets/work/itu.jpg';
 
   // services
   static const String uiux = 'assets/services/ui.png';
