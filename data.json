@@ -33,7 +33,7 @@
         {
             "icon": "assets/services/app.png",
             "name": "Mobile App Development",
-            "description": "App development via \nFlutter & Kotlin\n- Multiplatform framework\n- Jetpack Compose\n- Firebase\n- REST APIs\n- and more...!"
+            "description": "App development via \\nFlutter & Dart\nAndroid & Kotlin\n- Multiplatform framework\n- Jetpack Compose\n- Firebase\n- REST APIs\n- and more...!"
         },
         {
             "icon": "assets/services/ui.png",

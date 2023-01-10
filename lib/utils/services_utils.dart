@@ -14,7 +14,7 @@ class ServicesUtils {
   ];
 
   static const List<String> servicesDescription = [
-    "App development via \nFlutter & Kotlin\n- Multiplatform framework\n- Jetpack Compose\n- Firebase\n- REST APIs\n- and more...!",
+    "App development via \nFlutter & Dart\nAndroid & Kotlin\n- Multiplatform framework\n- Jetpack Compose\n- Firebase\n- REST APIs\n- and more...!",
     "Basic Applications...",
     "Open source GitHub Projects",
   ];
