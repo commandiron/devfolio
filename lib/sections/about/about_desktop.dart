@@ -141,8 +141,7 @@ class AboutDesktop extends StatelessWidget {
                             ),
                           ),
                           Space.x1!,
-                          Container(
-                            color: Colors.grey[900]!,
+                          SizedBox(
                             width: AppDimensions.normalize(30),
                             height: AppDimensions.normalize(0.5),
                           ),
