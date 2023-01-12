@@ -138,17 +138,6 @@ class AboutTab extends StatelessWidget {
                 ),
               ),
               Space.x!,
-              Container(
-                width: width * 0.05,
-                decoration: BoxDecoration(
-                  border: Border(
-                    bottom: BorderSide(
-                      color: Colors.grey[900]!,
-                      width: 2.0,
-                    ),
-                  ),
-                ),
-              ),
               SingleChildScrollView(
                 scrollDirection: Axis.horizontal,
                 child: Row(
