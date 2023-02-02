@@ -66,9 +66,9 @@ class _MaterialChildState extends State<MaterialChild> {
       theme: theme.themeLight,
       darkTheme: theme.themeDark,
       themeMode: widget.provider.themeMode,
-      initialRoute: "/",
+      initialRoute: "/home/",
       routes: {
-        "/": (context) => const MainPage(),
+        "/home/": (context) => const MainPage(),
       },
     );
   }
